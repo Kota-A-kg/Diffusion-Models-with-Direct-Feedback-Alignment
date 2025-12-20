@@ -24,11 +24,11 @@ Run the main script to start training or sampling. The script supports interacti
 python main.py
 
 Follow the on-screen instructions to select:
-1. Num Timesteps (e.g., 250, 1000)
-2. Training Mode (DFA or BP)
-3. U-Net Version (1 or 2)
-4. Image Size (e.g., 8, 32)
-5. Sampler (DDPM, DDIM, etc.)
+1. Num_Timesteps (e.g., 250, 1000) ...train_num_step
+2. Training Mode (DFA or BP) ...Learning Rule
+3. U-Net Version (1 or 2) ...U-Net Archtecture
+4. Image Size (e.g., 8, 16) ...(image_size × image_size) 
+5. Sampler (DDPM, DDIM, etc.) ...Sampler
 
 ## Reference
 - Thesis: "生物学的に尤もらしい学習則を用いた拡散モデルの性能分析" (Performance Analysis of Diffusion Models using Biologically Plausible Learning Rules)
