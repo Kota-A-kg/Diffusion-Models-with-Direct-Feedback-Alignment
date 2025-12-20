@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.24.4
+matplotlib==3.10.3
+tqdm==4.67.1
+diffusers==0.35.1
+torch-fidelity==0.4.0b0
+transformers==4.33.2
+accelerate==1.7.0
+pillow==11.1.0
