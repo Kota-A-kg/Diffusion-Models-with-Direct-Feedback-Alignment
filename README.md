@@ -2,6 +2,9 @@
 
 This repository contains the implementation of Diffusion Models trained with Direct Feedback Alignment (DFA), as part of the Master's Thesis research.
 We investigate the biological plausibility of diffusion models by replacing Backpropagation (BP) with DFA in the U-Net training loop.
+The original codes are the below GitHub pages.
+https://github.com/keiji-miura/minDiffusionModel/blob/main/Minimum_diffusion_model_for_MNIST.ipynb
+https://github.com/keiji-miura/FA-based_CNN_Autoencoder/blob/main/FA_CNN/FA_function.py
 
 ## Features
 - Training Methods: Support for both Backpropagation (BP) and Direct Feedback Alignment (DFA).
