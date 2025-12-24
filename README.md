@@ -39,7 +39,7 @@ This project is built upon the following original works by [keiji-miura](https:/
 I have modified and extended these codes for my master's thesis.
 
 ## Reference
-- Thesis: "生物学的に尤もらしい学習則を用いた拡散モデルの性能分析" (Performance Analysis of Diffusion Models using Biologically Plausible Learning Rules)
+- Thesis: "生物学的に尤もらしい学習則を用いた拡散モデルの画像生成能力" (Performance of Diffusion Models with Biologically Plausible Learning Rules)
 - Author: Kota Arakawa
 
 ## License
